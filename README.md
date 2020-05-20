@@ -1,11 +1,15 @@
-## Week 3: Tableau, Project
+# Tableau - Project
 
-#### Time estimate: 10 hours
+## Introduction
 
-### Learning Goals
-Create and showcase an interactive Tableau dashboard on Tableau Public.
+Now that you've spent some time familiarizing Tableau, it's time to put your knowledge into action!
 
-### Activities
+## Learning Goals
+You will be able to:
+- Create and showcase an interactive Tableau dashboard on Tableau Public
+
+## Your Tableau Project
+
 **Step 1**: Go to [Tableau Public](https://public.tableau.com/en-us/s/) to download the app, install it on your computer, and create a Tableau Public account. Tableau Public is a _public_ version of Tableau Desktop. The main difference is that Public saves your content to the _cloud_ and Desktop allows you to save files _locally_. Follow the necessary steps to install Tableau Public on your computer.
 
 **Step 2**: Create an account on [data.world](https://data.world/)
@@ -23,3 +27,6 @@ Create and showcase an interactive Tableau dashboard on Tableau Public.
 **Step 8**: Create a meaningful dashboard that would allow admins at the center to track admissions of dogs and cats from the past 3 years (2020 inclusive) and find any meaningful patters involving breed and age to help them get more animals adopted.
 
 **Step 9**: Publish your dashboard on Tableau Public, and add link to your portfolio.
+
+## Summary
+Congratulations, this was the last bit of Tableau content in this track! We do encourage you to use Tableau to polish up your Flatiron School Projects, and showcase your skills to potential employers that way.
